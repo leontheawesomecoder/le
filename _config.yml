@@ -1,7 +1,6 @@
 name: leons blog
-url: http://matt.harzewski.com
-description: Insert tagline here
-
+url: http://leontheawesomecoder-github.io
+description: Learn about hackers
 permalink: /themes/:title/
 
 highlighter: pygments
